@@ -22,6 +22,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Star-Viper/Star-Viper/output/snake.svg" alt="Snake animation" />
+
 
 
