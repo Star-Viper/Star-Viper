@@ -20,7 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=star-viper&" alt="star-viper" /></p>
 
-<img src="https://raw.githubusercontent.com/Star-Viper/Star-Viper/output/snake.svg" alt="Snake animation" />
 
 
 
