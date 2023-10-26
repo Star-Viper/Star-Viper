@@ -22,7 +22,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=star-viper&show_icons=true&locale=en&layout=compact" alt="star-viper" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=star-viper&show_icons=true&locale=en" alt="star-viper" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=star-viper&" alt="star-viper" /></p>
 
 
