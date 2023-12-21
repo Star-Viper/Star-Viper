@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipul Mhatre</h1>
 <h3 align="center">A passionate Frontend Web and App developer from India</h3>
+<!-- <h3 align="center">Currently learning ML and Blockchain</h3> -->
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
