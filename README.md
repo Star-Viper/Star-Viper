@@ -6,9 +6,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=star-viper&theme=darkhub">
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=star-viper&label=Profile%20Views&color=1&pretty=false" />
-</a>
+<p><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Star-Viper&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
