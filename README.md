@@ -6,7 +6,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=star-viper&theme=darkhub">
 </p>
 
-<p>[![](https://visitcount.itsvg.in/api?id=star-viper&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)</p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=star-viper&label=Profile%20Views&color=1&pretty=false" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
