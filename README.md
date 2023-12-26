@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vipul Mhatre</h1>
 <h3 align="center">A passionate Frontend Web and App developer from India</h3>
-<!-- <h3 align="center">Currently learning ML and Blockchain</h3> -->
-<h3 align="left">Languages and Tools:</h3>
 
 ## 🔗 Github Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=star-viper&theme=darkhub">
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=star-viper&icon=6&color=5)](https://visitcount.itsvg.in)
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
