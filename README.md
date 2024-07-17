@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Vipul Mhatre</h1>
-<h3 align="center">I'm a Frontend Web and Application Developer who's all about creating sleek digital experiences. 🔍 Currently, I'm diving into the exciting worlds of Cybersecurity and Machine Learning to make our online spaces safer and smarter. When I'm not busy coding, you'll often find me indulging in my hobby of User Research, uncovering insights that shape user-centric designs🚀.</h3>
+<h3 align="center">I'm a MERN Stack Developer who's all about creating sleek digital experiences. 🔍 Currently, I'm diving into the exciting worlds of Cybersecurity and Machine Learning to make our online spaces safer and smarter. When I'm not busy coding, you'll often find me indulging in my hobby of User Research, uncovering insights that shape user-centric designs🚀.</h3>
 
 ## 🔗 Github Trophies
 <p align="center">
